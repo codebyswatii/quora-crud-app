@@ -45,7 +45,7 @@ http://localhost:3000/posts
 
 🎥 Demo:
 
-📑 ![View Screenshot](REST_CLASS\screenshot.png)
+📑 ![View Screenshot](REST_CLASS/screenshot.png)
 
 
 [🎥 Watch Demo Video](https://www.canva.com/design/DAGx_8ERFRo/e6ROONjBJHDr47MWF7qo_A/edit?utm_content=DAGx_8ERFRo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
